@@ -1,4 +1,4 @@
-# Hello, Polars!
+# 🐻‍❄️ Hello, Polars!
 
 ## Description
 Este repositorio está dedicado a explorar y comprender el funcionamiento de la librería [Polars](https://www.pola.rs/), una alternativa rápida y eficiente a pandas para el procesamiento de datos en Python. Se incluyen ejemplos prácticos, comparaciones, pruebas de rendimiento y buenas prácticas.
