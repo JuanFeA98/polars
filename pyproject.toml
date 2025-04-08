@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hello_polars"
+version = "0.1.0"
+description = ""
+authors = ["JuanFe <jmartinezbernal02@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+polars = "^1.26.0"
+xlsxwriter = "^3.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
