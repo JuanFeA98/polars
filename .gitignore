@@ -11,6 +11,7 @@ __pycache__/
 *.csv
 *.xlsx
 *.parquet
+*.json
 
 # C extensions
 *.so
